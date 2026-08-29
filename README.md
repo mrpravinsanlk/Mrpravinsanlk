@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Mr Pravinsan 👋</h1>
 <p align="center">
-  <strong>Full-Stack Developer | UI/UX Designer</strong>
+  <strong>Full-Stack Developer & UI/UX Designer</strong>
 </p>
 
 <p align="center">
-  I build web applications, design user interfaces, and work with relational databases. My focus is on writing clean code and creating practical, user-friendly solutions.
+  I design and develop responsive web applications, robust backend architectures, and database systems. Focused on clean code and practical solutions.
 </p>
 
 <p align="center">
@@ -16,9 +16,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrpravinsanlk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=mrpravinsanlk&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -54,22 +52,18 @@
 
 ---
 
-### 📈 GitHub Stats & Streak
+### 🛠️ Core Capabilities
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrpravinsanlk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrpravinsanlk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpravinsanlk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+* **Full-Stack Development:** Designing end-to-end web architectures, user authentication, and database workflows.
+* **UI/UX Engineering:** Crafting pixel-perfect, mobile-first, and responsive web interfaces.
+* **Database Management:** Structuring relational schemas and optimizing SQL queries.
+* **API Integration:** Building and consuming RESTful endpoints.
 
 ---
 
-### 📬 Connect With Me
+### 📬 Contact & Connect
 
-<p align="center">
+<p align="left">
   <a href="mailto:mrpravinsan@gmail.com">
     <img src="https://img.shields.io/badge/Email-mrpravinsan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
