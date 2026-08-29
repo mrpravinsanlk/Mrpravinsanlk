@@ -71,4 +71,5 @@
     <img src="https://img.shields.io/badge/GitHub-Mrpravinsanlk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrpravinsanlk&theme=tokyo-night)](https://github.com/mrpravinsanlk)
 
