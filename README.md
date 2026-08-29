@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Mr Pravinsan 👋</h1>
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/e0171e8b-db13-4ef6-9841-b159509c1415" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 3px solid #38bdf8;" alt="Mr Pravinsan" />
+</p>
+
+<p align="center">
   <strong>Full-Stack Developer & UI/UX Designer</strong>
 </p>
 
