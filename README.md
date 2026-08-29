@@ -38,14 +38,16 @@
 ### 📈 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrpravinsanlk&show_icons=true&theme=default&hide_border=true" alt="Pravinsan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrpravinsanlk&show_icons=true&theme=tokyonight&hide_border=true&title_color=007bff" alt="Pravinsan's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpravinsanlk&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpravinsanlk&layout=compact&theme=tokyonight&hide_border=true&title_color=007bff" alt="Top Languages" />
 </div>
 
 ---
 
 ### 📬 Get In Touch
 
-- **GitHub:** [github.com/mrpravinsanlk](https://github.com/mrpravinsanlk)
-- **Email:** your-email@example.com
+<p align="center">
+  <a href="https://github.com/mrpravinsanlk"><img src="https://img.shields.io/badge/GitHub-mrpravinsanlk-black?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="mailto:mrpravinsan@gmail.com"><img src="https://img.shields.io/badge/Email-mrpravinsan%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
+</p>
